@@ -1,6 +1,5 @@
 ```
-Author:     Bao Phuc Do
-Partner:    Khang Hoang Nguyen
+Author:     Yuli Wang
 Course:     CS 3500, University of Utah, School of Computing
 GitHub ID:	R7nX and KhangNguyen2005 
 Repo:       https://github.com/uofu-cs3500-20-fall2024/assignment-eight-chatting-phuc-khang_game
@@ -17,7 +16,7 @@ Have a good day and please be gentle when grading.
 
 # Consulted Peers:
 
-	- Khang Nguyen
+	- Yuli Wang
 
 # References:
 
